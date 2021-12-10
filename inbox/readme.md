@@ -1,2 +1,2 @@
 #inbox
-Inbox is the sample project of 
+Inbox is the sample project
