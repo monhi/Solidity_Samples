@@ -10,7 +10,7 @@ But as those programs are a bit old and because of the upgrades that Solitidy fa
 **Lottery.sol**
 
 A great sample code written by **Stephen Grider** in his ***"Ethereum and Solidity The Complete Developer's Guide"*** series.
-I think he is one the masters of teching Blockchain technologies and I love his teaching style.
+I think he is one the masters of Blockchain technologies and I love his teaching style.
 In this Lottery.sol file, I do following changes.
 * Using **constructor** instead of class name.
 * Adding license.
